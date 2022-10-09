@@ -1,0 +1,26 @@
+header: checkout
+
+basket:
+list items in basket
+
+item1: name
+       price
+
+item2: name
+       price
+
+total price:
+total price - any discounts
+
+payment method selection:
+enter card details
+
+delivery option:
+next day - price
+premium - price
+standard - price
+
+
+total price: items + delivery
+
+checkout button:
