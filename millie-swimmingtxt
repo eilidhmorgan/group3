@@ -3,41 +3,474 @@ Lists the prices and options of swimming-related equipment available at the stor
 
 header: women
 swimsuits
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
 kneesuits
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
 bikinis
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
 
 header: men
 swimshorts
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
 trunks
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
 
 header: kids
 swimsuits
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
 swimshorts
+      picture1: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available sizes (select option)
+                available colours (select option)
+
 goggles
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 equipment
+   armbands
+       picture1: brand + name
+                description
+                available colours (select option)
+
+       picture2: brand + name
+                 description
+                 available colours (select option)
 
 header: equipment
 goggles
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 swim caps
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 water bottles
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 towels
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 bags
+   backpacks
+           picture1: brand + name
+                     description
+                     available colours (select option)
+
+           picture2: brand + name
+                     description
+                     available colours (select option)
+
+           picture3: brand + name
+                     description
+                     available colours (select option)
+
+   hold-alls
+           picture1: brand + name
+                     description
+                     available colours (select option)
+
+           picture2: brand + name
+                     description
+                     available colours (select option)
+
+           picture3: brand + name
+                     description
+                     available colours (select option)
+
+   mesh-bags
+           picture1: brand + name
+                     description
+                     available colours (select option)
+
+           picture2: brand + name
+                     description
+                     available colours (select option)
+
+           picture3: brand + name
+                     description
+                     available colours (select option)
+
 footwear
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 training aids
+  kick-boards
+        picture1: brand + name
+                  description
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available colours (select option)
+
+  paddles
+        picture1: brand + name
+                  description
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available colours (select option)
+
+  pull buoys
+        picture1: brand + name
+                  description
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available colours (select option)
+
+  fins
+        picture1: brand + name
+                  description
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available colours (select option)
 
 header: racing
 competition swimsuits
+  men
+        picture1: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
+  women
+        picture1: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
+        picture2: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
+        picture3: brand + name
+                  description
+                  available sizes (select option)
+                  available colours (select option)
+
 racing goggles
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
+
 racing swim caps
+      picture1: brand + name
+                description
+                available colours (select option)
+
+      picture2: brand + name
+                description
+                available colours (select option)
+
+      picture3: brand + name
+                description
+                available colours (select option)
 
 header: brand
 speedo
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 TYR
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 nike
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 adidas
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 zoggs
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 phelps
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 yingfa
+   men
+     swimshorts
+     goggles
+     equipment
+   women
+     swimsuits
+     goggles
+     equipment
+   kids
+     swimshorts
+     swimsuits
+     goggles
+     equipment
+   racing
+
 
 
 
