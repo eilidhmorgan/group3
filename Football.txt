@@ -1,18 +1,45 @@
 Football section
 
-<Introduction to football section of the store>
+Welcome to the football page on the sports shop website!! We offer the best sports gear
+and merchandise available. Please read the following list to view the prices
+of any gear or merchandise.
 
-<heading>
-<list of prices for football kits>
+Here are the cost of football kits in our store:
+-Full kit team of choice(short sleeve) £105
+-Full kit team of choice(long sleeve) £110
 
-<heading>
-<list of prices for football tops>
+Here are a list of football tops on offer at our store:
+-Football top team of choice (short sleeve) £65
+-Football top team of choice (long sleeve) £70
 
-<heading>
-<list of prices for football shorts>
+Here are a list of football shorts/socks on offer at our store:
+-Football top team of choice (shorts) £30
+-Football top team of choice (socks) £10
+    -Football Player printed on top £15
 
-<heading>
-<list of prices for football accessories>
+Here are a list of football accessories that we offer at our store:
+-Football cap £10
+-Football shin guards £15
+-Football goalkeeper gloves £25
+-Captain's armband £5
 
-<heading>
-<list of prices for football gifts>
+Here are a list of football gifts that we offer at our store:
+-Football scarf £10
+-Football half-and-half scarf £8
+-Football flag (small) £5
+-Football flag (large) £15
+-Football winter hat £15
+
+
+Here are the cost of matchday tickets at our ticket office:
+-Home ticket (east and west stand) Adult £20
+-Home ticket (east and west stand) Senior £15
+-Home ticket (east and west stand) Junior (under 15) £15
+
+-Home ticket (North and south stand) Adult £30
+-Home ticket (North and south stand) Senior £25
+-Home ticket (North and south stand) Junior £25
+
+-Away ticket Adult £25
+-Away ticket senior £20
+-Away ticket Junior £20
