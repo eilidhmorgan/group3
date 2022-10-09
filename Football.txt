@@ -1,0 +1,18 @@
+Football section
+
+<Introduction to football section of the store>
+
+<heading>
+<list of prices for football kits>
+
+<heading>
+<list of prices for football tops>
+
+<heading>
+<list of prices for football shorts>
+
+<heading>
+<list of prices for football accessories>
+
+<heading>
+<list of prices for football gifts>
