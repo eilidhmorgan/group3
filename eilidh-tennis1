@@ -1,0 +1,15 @@
+header: Tennis
+contains information on the tennis equipment available to purchase from the shop
+lists prices and options
+
+header:
+rackets
+
+header:
+balls
+
+header:
+clothes
+
+header:
+footwear
