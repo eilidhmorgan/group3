@@ -1,0 +1,81 @@
+header: Tennis
+
+contains information on the tennis equipment available to purchase from the shop
+lists prices and options
+
+header: rackets
+
+picture
+racket1: name
+         price
+         size
+
+picture
+racket2: name
+         price
+         size
+
+picture
+racket3: name
+         price
+         size
+
+
+header: balls
+
+picture
+ball1: name
+       court type
+       price
+
+picture
+ball2: name
+       court type
+       price
+
+picture
+ball3: name
+       court type
+       price
+
+
+header: clothes
+
+picture
+jacket: name
+        price
+        waterproof y/n
+        sizes
+
+picture
+skirt:  name
+        price
+        waterproof y/n
+        sizes
+
+picture
+trousers: name
+          price
+          waterproof y/n
+          sizes
+
+
+header: footwear
+
+picture
+shoe1: name
+       price
+       fit
+       sizes
+
+picture
+shoe2: name
+       price
+       fit
+       sizes
+
+picture
+shoe3: name
+       price
+       fit
+       sizes
